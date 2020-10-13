@@ -1,4 +1,6 @@
-body{
+body, 
+p,
+ul{
     margin: 0;
     padding: 0;
 }
@@ -10,17 +12,30 @@ body{
 
 .header-content{
     background-color: #f9fafc;
-    padding: 0 20px;
+    padding: 20px;
+}
+
+.nav-list{
+    list-style: none;
+}
+
+.chirpus{
+        font-weight: bold;
+}
+
+.top-nav{
+    margin: 10px 0;
 }
 
 .button{
     background-color: #000;
+    text-align: center;
     border-color: #000;
     color: #fff;
-    width: 99%;
+    width: 90%;
     border-radius: 30px;
     padding: 15px;
-    font-weight: bold;
+    margin: 10px;
 }
 
 .main-content{
@@ -31,6 +46,7 @@ body{
     color: #69696a;
     border-left: solid #69696a;
     padding-left: 20px;
+    margin-bottom: 20px;
 }
 
 .footer-content{
@@ -47,12 +63,16 @@ body{
 
 .float{
     float: left;
-    font-weight: bold;
 }
 
 .header-links{
     text-decoration: none;
     color: #69696a;
+}
+
+.button-links{
+    text-decoration: none;
+    color: #fff;
 }
 
 .footer-links{
