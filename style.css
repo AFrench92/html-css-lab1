@@ -27,6 +27,12 @@ body{
     padding: 0 20px;
 }
 
+.lorem{
+    color: #69696a;
+    border-left: solid #69696a;
+    padding-left: 20px;
+}
+
 .footer-content{
     background-color: rgba(247, 193, 162, 0.7);
     position: fixed;
