@@ -22,8 +22,24 @@ body{
     width: 100%;
 }
 
-.links{
+.footer-text{
+    text-align: right;
+    padding: 10px;
+}
+
+.float{
+    float: left;
+    font-weight: bold;
+}
+
+.header-links{
     text-decoration: none;
     color: #69696a;
+}
+
+.footer-links{
+    text-decoration: none;
+    color: #69696a;
+    padding: 10px;
 }
 
