@@ -5,14 +5,26 @@ body{
 
 .body-content{
     font-family: open sans;
+    background-color: #f9fafc
 }
 
 .header-content{
     background-color: #f9fafc;
+    padding: 0 20px;
+}
+
+.button{
+    background-color: #000;
+    border-color: #000;
+    color: #fff;
+    width: 99%;
+    border-radius: 30px;
+    padding: 15px;
+    font-weight: bold;
 }
 
 .main-content{
-
+    padding: 0 20px;
 }
 
 .footer-content{
