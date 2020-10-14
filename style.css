@@ -21,6 +21,8 @@ ul{
 
 .chirpus{
         font-weight: bold;
+        text-decoration: none;
+        color: #000;
 }
 
 .top-nav{
